@@ -6,4 +6,4 @@ projeto proposto pelo bootcamp frontend da digital innovation one
 * flex-box
 * html semântico
 
-<a>https://lipemanso.github.io/clone-landing-page-instagram/</a>
+
